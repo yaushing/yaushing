@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hey 👋🍓<br>My name is Kam Yau Shing. Game developer, free runner, musician, Python and React enthusiast.<br>Nice to make your acquaintance 😁.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=&color=F7F7F7&multiline=true&width=500&height=400&lines=Hey+%F0%9F%91%8B%F0%9F%8D%93!+I+am+Kam+Yau+Shing.+;Game+developer%2C+free+runner%2C+musician%2C;+Python+and+React+enthusiast.+Nice+to+;+make+your+acquaintance+%F0%9F%98%81.;%E3%85%A4;Ehi+%F0%9F%91%8B%F0%9F%8D%93!+Sono+Kam+Yau+Shing.;Sviluppatore+di+giochi%2C+artista+di+;+parkour%2C+musicista%2C+appassionato+di+;Python+e+React.+Piacere+di+fare+la+tua+;conoscenza+%F0%9F%98%81.;%E3%85%A4;%E5%98%BF%F0%9F%91%8B%F0%9F%8D%93%EF%BC%81%E6%88%91%E6%98%AF%E7%94%98%E6%9C%89%E8%AF%9A%E3%80%82;%E6%B8%B8%E6%88%8F%E5%BC%80%E5%8F%91%E8%80%85%E3%80%81%E8%B7%91%E9%85%B7%E8%80%85%E3%80%81%E9%9F%B3%E4%B9%90%E5%AE%B6%E3%80%81;Python+%E5%92%8C+React+%E7%88%B1%E5%A5%BD%E8%80%85%E3%80%82;%E5%BE%88%E9%AB%98%E5%85%B4%E8%AE%A4%E8%AF%86%E4%BD%A0%F0%9F%98%81%E3%80%82)](https://git.io/typing-svg)
 
 
 ## 🌐 Socials:
