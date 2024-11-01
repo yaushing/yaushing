@@ -5,21 +5,18 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yaushing" alt="yaushing" /></a> </p>
 
-- 🔭 I’m currently working on [a pure pursuit controller for LEGO Spike](https://github.com/roboapex/aps)
+- 🔭 I’m currently working on [a 3D printed bipedal robot](https://github.com/yaushing/biped)
 
-- 🌱 I’m currently learning **PHP and Unity**
+- 🌱 I’m currently learning **Unity**
 
 - 👨‍💻 All of my projects are available here!
 
-- 💬 Ask me about **React, Python3, C#**
+- 💬 Ask me about **React, Python3, C#, C++**
 
 - 📫 How to reach me **kam.yaushing@gmail.com**
 
-- ⚡ Fun fact **Parlo italiano**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/jkys.11257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jkys.11257" height="30" width="40" /></a>
 <a href="https://instagram.com/jkys11257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jkys11257" height="30" width="40" /></a>
 </p>
 
