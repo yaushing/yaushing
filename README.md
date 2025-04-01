@@ -1,5 +1,14 @@
 <h1 align="center">Hi!!!, I'm Yau Shing</h1>
-<h3 align="center">A full-stack dev and competitive coder from Singapore.</h3>
+<h3 align="center">A tired, overworked:</h3>
+<ol>
+  <li>Student.</li>
+  <li>Red hatter.</li>
+  <li>3D artist.</li>
+  <li>2D artist.</li>
+  <li>Game developer.</li>
+  <li>Full-stack developer.</li>
+  <li>Competitive programmer.</li>
+</ol>
 
 # 💫 About Me:
 hi.<br>🔭 I’m currently working on rushing through something that would take 6 months in 4 weeks.<br>🌱 I’m currently learning wayy too many things to meet that deadline<br>👨‍💻 All of my projects are available here!<br>💬 Ask me about Python3, C#.<br>- Just don't ask me about algorithms or graphs<br>📫 How to reach me: don't.
